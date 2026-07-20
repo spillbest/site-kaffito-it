@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kaffito.it/sitemap.xml
